@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## Namitha S here AKA bl4ck_Widw !!
+## Namitha.S here AKA bl4ck_Widw !!
 
 <p align="center"><a href="https://github.com/namithas123"></a></p>
 
@@ -10,9 +10,10 @@
 
 
 - :raising_hand: Pronouns: She/Her
-- :innocent: I’m am a student at Amrita Vishwa Vidyapeetam , persuing my bachelors on Artifical intelligence 
+- :innocent: A student at Amrita Vishwa Vidyapeetam , persuing her bachelors on Artifical intelligence 
 - :pushpin: Reverse Engineer 
-- :ledger: Active CTF player
+- 🚩 Active CTF player
+- 💻 Member of team bi0s and Team Shakti
 
 
 #### BLOG 
