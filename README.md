@@ -4,7 +4,6 @@
 
 <p align="center"><a href="https://github.com/namithas123"></a></p>
 
-<p align="center"> <img src="https://octodex.github.com/images/spocktocat.png" height="650px" width="650px"></p>
 
 
 
@@ -15,6 +14,7 @@
 - 🚩 Active CTF player
 - 💻 Member of team bi0s and Team Shakti
 
+Resume : https://app.flowcv.com/resume-feedback/S5WdIQVq7UJRjZQuvlPHc
 
 #### BLOG 
 [![blog badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://r0m4noff.wordpress.com/)
