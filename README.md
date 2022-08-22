@@ -1,11 +1,8 @@
 # Hello there 👋
 
-## Namitha.S here AKA bl4ck_Widw !!
+## Namitha.S 
 
 <p align="center"><a href="https://github.com/namithas123"></a></p>
-
-
-
 
 
 - :raising_hand: Pronouns: She/Her
